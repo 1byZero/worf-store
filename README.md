@@ -1,4 +1,4 @@
-# Nuxt 3 Minimal Starter
+# Frappe Nuxt 3 Minimal E-Commerce Starter by Worf
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
